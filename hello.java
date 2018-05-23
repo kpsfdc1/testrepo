@@ -1,8 +1,8 @@
-hello class
+hello class-linx
 {
-	main()
+	main()	#from linx user
 			
 	{
-		system.out,println("hello from wind-user");
+		system.out,println("hello from linx-user");
 	}
 }
