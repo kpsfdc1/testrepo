@@ -1,8 +1,8 @@
-hello class
+hello class-wind
 {
-	main()
+	main()		#from wind-user
 			
 	{
 		system.out,println("hello from wind-user");
 	}
-}
+}#EOF
