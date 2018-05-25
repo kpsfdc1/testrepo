@@ -1,4 +1,4 @@
-hello class-wind
+hello class-wind ####
 {
 	main()		#from wind-user
 
